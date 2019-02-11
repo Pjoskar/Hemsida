@@ -1,0 +1,19 @@
+header{
+	text-align: center;
+	height: 800px;
+}
+img{
+
+}
+
+.wrapper{
+	background-color: blue;
+	margin-top: -50px;
+	margin-left: -10px;
+	margin-right: -10px;
+	height: 100%;
+}
+
+.content{
+	text-align: center;
+}
